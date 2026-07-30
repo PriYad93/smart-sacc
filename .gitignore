@@ -1,0 +1,12 @@
+# Local MongoDB data files
+/data/
+
+# Node modules
+**/node_modules/
+
+# Build output
+/frontend/dist/
+
+# System files
+.DS_Store
+Thumbs.db
